@@ -1,0 +1,24 @@
+img {
+    display: block;
+    width: 25%;    
+}
+
+.image-intro{
+    display: flex;
+    gap: 20px;
+    justify-content: space-evenly;
+    margin: 25px;
+}
+
+p {
+    color: white;
+    background: teal;
+    border-radius: 5px;
+    width: 24%;
+    padding: 10px;
+    margin: auto 0 auto 0;
+}
+
+main {
+    margin: 25px;
+}
