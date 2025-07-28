@@ -1,0 +1,13 @@
+.card {
+    padding: 20px;
+    background-color: darkgray;
+    display: flex;
+    border: 1px solid teal;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.card-img {
+    width: 100%;
+    height: auto;
+}

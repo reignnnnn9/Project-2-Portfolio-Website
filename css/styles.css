@@ -1,11 +1,14 @@
+@media (min-width: 768px) {
 body {
     background-color: lightgray;
     color: white;
     font-family: Arial;
     background-image: url(../../Nighttime-View-Of-Chicago-Skyline-Wall-Mural.jpg);
     background-attachment: fixed;
-    background-size: cover;
+    background-size: contain;
+}    
 }
+
 
 .site-header {
     display: flex;
@@ -59,3 +62,4 @@ footer {
 .site-navbar ul li:hover {
     transform: translateY(-5px);
 }
+
